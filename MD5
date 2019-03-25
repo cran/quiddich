@@ -1,0 +1,11 @@
+290769220e8a5e979f368699a281808b *DESCRIPTION
+4581c37d4523565fffff633f34634951 *NAMESPACE
+ca0691fff098f0df6f18d5248668af3e *R/changesAA.R
+8934914b5d956f5e13e2afd7832af000 *R/diagCharAA.R
+4b1c0c8e7c801e68d00dbf07afda67f8 *R/diagCharNA.R
+5098ace9847c516197d7f99873eea9fc *R/quiddich.R
+3f8b939be1b8fe780f6c9b193e7c80b8 *inst/extData/example.fasta
+c4c11e92ae0ef9d733cc551b524ee4c4 *man/changesAA.Rd
+c868da4ba5cfb3cd0af6e4557cdc7728 *man/diagCharAA.Rd
+e48d1cda023cf10fd09fa828fba5e840 *man/diagCharNA.Rd
+96343a63b3fe2089af78dadfb28a958f *man/quiddich-package.Rd
